@@ -1,0 +1,7 @@
+version: 2
+sources:
+  - name: orders
+    database: RAW
+    schema: CRM
+    tables:
+      - name: order_header

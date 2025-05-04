@@ -1,0 +1,1 @@
+SELECT {{ get_today_date() }} AS run_date;
