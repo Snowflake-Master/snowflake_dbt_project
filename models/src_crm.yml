@@ -1,0 +1,7 @@
+version: 2
+sources:
+  - name: crm
+    database: RAW
+    schema: crm
+    tables:
+      - name: customers
